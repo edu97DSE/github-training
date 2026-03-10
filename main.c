@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <ram.h>
 
-inte main ()
+void main ()
 {
 printf("Hola mundo \n");
-return 0;
 }
